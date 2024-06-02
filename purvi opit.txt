@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+ <body style="background-color: palevioletred;">
+<h1 style="color:goldenrod;background:rgb(12, 10, 1); text-align:center ;">PENELOPE</h1>
+<b
+<ul style="font-size: larger;text-decoration:;">
+    </ul><li>ГРИМ</li>
+    <li>КОСА</li>
+    <li>ТЯЛО</li>
+    <li>ГРИЖА И ПАРФЮМИ</li>
+    <li>АКСЕСОАРИ И ДОБАВКИ</li>
+
+<br>
+<br>
+<ol style="text-align: left;">КОНТАКТИ</ol>
+</ul>
+
+</body>
+</html>
